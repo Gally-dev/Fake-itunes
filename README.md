@@ -1,6 +1,6 @@
-# itunes2021
+# Fake itunes
 
-## Project setup
+## [fake itunes](https://fake-tunes.netlify.app) 
 ```
 npm install
 ```
